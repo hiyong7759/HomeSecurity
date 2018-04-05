@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366523108546",
+    "firebase_url": "https://homesecurity-beddc.firebaseio.com",
+    "project_id": "homesecurity-beddc",
+    "storage_bucket": "homesecurity-beddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366523108546:android:7cb6548ddc212140",
+        "android_client_info": {
+          "package_name": "com.cho.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366523108546-k1m27gum56qrh300urnjmskistvs06or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cho.homesecurity",
+            "certificate_hash": "3aab9b63f62b09d1488e27c746b677f07350cbca"
+          }
+        },
+        {
+          "client_id": "366523108546-uaorcq2hv607bg39qe45jvj6ej64jq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoaju7F55CSWYrrREebg7o4Fx2At1Zqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366523108546-uaorcq2hv607bg39qe45jvj6ej64jq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

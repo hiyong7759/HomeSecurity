@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/storage_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/title_storage_delete"
+        app:showAsAction="always"/>
+
+<!--    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_save"
+        android:title="@string/title_download"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/ic_notifications_on"
+        android:title="@string/title_notifications"
+        app:showAsAction="never"/>-->
+
+</menu>

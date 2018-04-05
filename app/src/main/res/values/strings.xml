@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeSecurity</string>
+    <string name="filename">filename</string>
+    <string name="detailpicture">DetailPicture</string>
+    <string name="default_notification_channel_id">ID??</string>
+    <string name="LiveStream">라이브</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_storage_delete">저장소 비우기</string>
+    <string name="title_download">폰에저장</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="textview">이미지를 핸드폰에 저장하기</string>
+</resources>
